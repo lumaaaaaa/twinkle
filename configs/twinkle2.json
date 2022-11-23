@@ -1,0 +1,379 @@
+{
+	"characters": [
+		{
+			"name": "d.va",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "doomfist",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "junker_queen",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "orisa",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "reinhardt",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "roadhog",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "sigma",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "winston",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "wrecking_ball",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "zarya",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "ashe",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "bastion",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "cassidy",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "echo",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "genji",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "hanzo",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "junkrat",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "pharah",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "reaper",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "sojourn",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "soldier_76",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 40,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": false
+		},
+		{
+			"name": "sombra",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "symmetra",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "torbjorn",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "tracer",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "widowmaker",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 100,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "ana",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "baptiste",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "brigitte",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "kiriko",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "lucio",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "mercy",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "moira",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		},
+		{
+			"name": "zenyatta",
+			"useAimbot": true,
+			"aimbotSettings": {
+				"strength": 25,
+				"radius": 350,
+				"y-offset": 44,
+				"flick": 20
+			},
+			"useTriggerbot": true
+		}
+	],
+	"version": 2
+}
